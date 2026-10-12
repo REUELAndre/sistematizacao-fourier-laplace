@@ -51,4 +51,4 @@ jupyter notebook sistematizacao_fourier_laplace.ipynb
 
 ## Vídeo
 
-Link: _adicione aqui o link do vídeo_
+Link: https://youtu.be/eqs-wpBw2rQ 
